@@ -1,2 +1,2 @@
 # todo-application
-Using List as a database
+Using Lisst as a database
